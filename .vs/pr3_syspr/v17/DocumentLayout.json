@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eblan\\Desktop\\pr3_syspr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD856EFD-6C79-4D3C-86B4-2456DA6C4325}|pr3_syspr\\pr3_syspr.vcxproj|C:\\Users\\Eblan\\Desktop\\pr3_syspr\\pr3_syspr\\pr3_syspr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD856EFD-6C79-4D3C-86B4-2456DA6C4325}|pr3_syspr\\pr3_syspr.vcxproj|solutionrelative:pr3_syspr\\pr3_syspr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr3_syspr.cpp",
+              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\pr3_syspr\\pr3_syspr\\pr3_syspr.cpp",
+              "RelativeDocumentMoniker": "pr3_syspr\\pr3_syspr.cpp",
+              "ToolTip": "C:\\Users\\Eblan\\Desktop\\pr3_syspr\\pr3_syspr\\pr3_syspr.cpp",
+              "RelativeToolTip": "pr3_syspr\\pr3_syspr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T13:55:48.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
